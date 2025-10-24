@@ -1,1 +1,1 @@
-"// ¹¤¾ßº¯Êý" 
+print("Hello World")
